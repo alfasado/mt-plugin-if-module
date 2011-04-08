@@ -1,0 +1,16 @@
+id  : IfModule
+key : ifmodule
+name: If Module
+version: 0.1
+author_name: Alfasado Inc.
+author_link: http://alfasado.net/
+l10n_class: IfModule::L10N
+description: '<__trans phrase="Provides conditional tags. MTIfPerlModule and MTIfComponent.">'
+tags:
+    block:
+        IfPerlModule?: $ifmodule::IfModule::Tags::_hdlr_if_module
+        IfModule?: $ifmodule::IfModule::Tags::_hdlr_if_module
+        IfComponent?: $ifmodule::IfModule::Tags::_hdlr_if_component
+        IfPlugin?: $ifmodule::IfModule::Tags::_hdlr_if_component
+
+# TODO:: Dynamic
