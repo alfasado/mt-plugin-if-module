@@ -12,5 +12,3 @@ tags:
         IfModule?: $ifmodule::IfModule::Tags::_hdlr_if_module
         IfComponent?: $ifmodule::IfModule::Tags::_hdlr_if_component
         IfPlugin?: $ifmodule::IfModule::Tags::_hdlr_if_component
-
-# TODO:: Dynamic
